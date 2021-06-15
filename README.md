@@ -1,6 +1,6 @@
-## End-to-end Image Search engine
+## Image Based Search engine
 
-This is the end-to-end implementation of image search engine. The image search engines allow us to retrive similar images based on the query one.
+This is the  complete implementation of image based search engine. The image search engines allow us to retrive similar images based on the query one.
 
 ![](helper_images/img_search_demo.gif)
 
