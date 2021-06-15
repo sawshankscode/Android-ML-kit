@@ -4,7 +4,7 @@ This is the end-to-end implementation of image search engine. The image search e
 
 ![](helper_images/img_search_demo.gif)
 
-## Project Instructions
+<!-- ## Project Instructions
 
 ### Getting Started
 
@@ -65,7 +65,7 @@ How to server the model using the TensorFlow serving: [tutorial](https://medium.
 ```
 	1. Put folder `models` inside the root dir
 	2. replace all files in the root to make this project use TensorFlow Serving
-```
+``` -->
 
 NOTE: 
 
